@@ -1,0 +1,23 @@
+/* Body */
+body {
+  color: ;
+  background-color: ;
+}
+/* Header */
+.page-header {
+  background-color: ;
+}
+
+/* Logo */
+.logo.link {
+  text-decoration: none;
+}
+.logo {
+  color: #4d5ae5;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.logo-header {
+  color: #2e2f42;
+}
