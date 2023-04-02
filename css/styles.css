@@ -25,9 +25,23 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.nav-link.link {
+.nav-link:hover,
+.nav-link:focus,
+.contact-link:hover,
+.contact-link:focus {
+  color: #404bbf;
+}
+.nav-link.link,
+.contact-link.link {
   text-decoration: none;
 }
-.nav-list.list {
+.list {
   list-style: none;
+}
+
+/* Contacts */
+.contact-link {
+  color: #434455;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
