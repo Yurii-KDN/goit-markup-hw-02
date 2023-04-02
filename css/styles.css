@@ -89,6 +89,7 @@ body {
   letter-spacing: 0.02em;
 }
 .hero-button {
+  font-family: inherit;
   font-weight: 500;
   color: #ffffff;
   background-color: #4d5ae5;
